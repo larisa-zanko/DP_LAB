@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.0",
+  "startedAt":  "2026-09-11T08:36:42.801279Z",
+  "program":  "c:\\Users\\Лариса\\Desktop\\4\\dp_stalevskaya\\lab1\\lab_1.ipynb",
+  "codePath":  "c:\\Users\\Лариса\\Desktop\\4\\dp_stalevskaya\\lab1\\lab_1.ipynb",
+  "codePathLocal":  "lab_1.ipynb",
+  "email":  "lr.zanko18@gmail.com",
+  "root":  "c:\\Users\\Лариса\\Desktop\\4\\dp_stalevskaya\\lab1",
+  "host":  "zankol",
+  "executable":  "c:\\Python312\\python.exe",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "510986809344",
+      "used":  "305255882752"
+    }
+  },
+  "memory":  {
+    "total":  "16835268608"
+  },
+  "writerId":  "b19fhoydw4tjdyf48jjowmn52o5ray67"
+}
